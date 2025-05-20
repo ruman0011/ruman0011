@@ -1,4 +1,4 @@
-![logo](https://github.com/ruman0011/ruman0011/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.jpg)
+![logo](https://github.com/ruman0011/ruman0011/blob/main/banner.jpg)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MD RUMAN MIA
 ====================================================================================================================================
 
