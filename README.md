@@ -7,7 +7,7 @@ App developer
 
 I’m MD RUMAN MIAH, a CSE student at Daffodil International University with a strong foundation in programming, algorithms, and software development. I’m passionate about cross-platform app development and have a growing interest in cybersecurity. I’m skilled in languages like C, Java, Python. I enjoy learning new technologies, watching anime, playing games, and following football. My goal is to become a skilled engineer and a good human being who makes a positive impact.
 
-* 🌍  I'm based in Faridpur
+* 🌍  I'm based in Faridpur,Dhaka.
 * 🖥️  See my portfolio at [My PORTFOLIO](http://https://sites.google.com/diu.edu.bd/md-ruman0101)
 * ✉️  You can contact me at [rumanmax100@gmail.com](mailto:rumanmax100@gmail.com)
 * 🚀  I'm currently working on [App development](http:///)
