@@ -2,17 +2,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MD RUMAN MIA
 ====================================================================================================================================
 
-App developer
+Recent CSE Graduate
 -------------
 
-I’m MD RUMAN MIAH, a CSE student at Daffodil International University with a strong foundation in programming, algorithms, and software development. I’m passionate about cross-platform app development and have a growing interest in cybersecurity. I’m skilled in languages like C, Java, Python. I enjoy learning new technologies, watching anime, playing games, and following football. My goal is to become a skilled engineer and a good human being who makes a positive impact.
+I’m a recent Computer Science and Engineering (CSE) graduate interested in software development and backend engineering. I enjoy learning how applications work behind the scenes and building practical solutions through technology.I have worked with Java, Python, C, PHP, SQL, HTML, CSS, Dart, and Flutter through academic and personal projects. I also completed a research project on bean leaf disease detection using the EfficientNetB3 deep learning model, gaining hands-on experience with data preprocessing, model training, evaluation, and research methodology.I’m currently strengthening my skills in backend development, software engineering, databases, APIs, and problem-solving as I prepare to begin my career as a software or backend engineer.I’m open to learning, collaborating on meaningful projects, and connecting with people in tech.
 
 * 🌍  I'm based in Faridpur,Dhaka.
 * 🖥️  See my portfolio at [My PORTFOLIO](http://https://sites.google.com/diu.edu.bd/md-ruman0101)
-* ✉️  You can contact me at [rumanmax100@gmail.com](mailto:rumanmax100@gmail.com)
-* 🚀  I'm currently working on [App development](http:///)
-* 🧠  I'm learning App development
-* ⚡  Show the world your code, your growth and your passion.
+* ✉️  You can contact me at [mdrumanmia.official.00@gmail.com](mailto:mdrumanmia.official.00@gmail.com))
+* 🧠  I'm currently learning backend development and software engineering.
+* ⚡ I enjoy building projects and learning new technologies.
 
 <a href="https://www.github.com/ruman0011" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ruman0011?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
